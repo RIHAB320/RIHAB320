@@ -7,7 +7,8 @@
 
 
 <p>
-Dedicated software  engineer with a passion for developing  web and mobile solutions.  Proficient in front-end including JavaScript frameworks like React and Angular, back-end technologies such as JAVA,Python,PHP,also mobile development using Android. Committed to delivering high-quality, user-centered applications through clean code and scalable architecture. Agile-focused team player who enjoys contributing expertise and driving innovation in a dynamic development environment.
+Dedicated software  engineer with a passion for developing  web and mobile solutions.  Proficient in front-end including JavaScript frameworks like React and Angular, back-end technologies such as JAVA,Python,PHP,also mobile development using Android.
+Committed to delivering high-quality, user-centered applications through clean code and scalable architecture. Agile-focused team player who enjoys contributing expertise and driving innovation in a dynamic development environment.
 </p>
 
 <h2 align="center">Technologies That I Know👨🏻‍💻</h2>
