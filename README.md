@@ -14,8 +14,8 @@ Committed to delivering high-quality, user-centered applications through clean c
 <h2 align="center">Technologies That I Know👨🏻‍💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,symfony,laravel,php,git" />
-    <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,typescript,java,c,spring,firebase,mongodb,mysql,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,php,git" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,java,spring,firebase,mongodb,mysql,androidstudio" /><br>
 </div>
 
 <br/>
